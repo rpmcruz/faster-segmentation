@@ -1,6 +1,6 @@
 # Two-Stage Framework for Faster Semantic Segmentation
 
-This code can be used to reproduce the results from the paper. **[The paper is currently under revision.]**
+This code can be used to reproduce the results from the paper. **Paper:** https://www.mdpi.com/1424-8220/23/6/3092
 
 Ricardo Cruz • Diana Teixeira e Silva • Tiago Gonçalves • Diogo Carneiro • Jaime S. Cardoso
 
